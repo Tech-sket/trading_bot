@@ -1,0 +1,13 @@
+2026-07-06 20:16:50,020 | INFO | Trading Bot Started
+2026-07-06 20:16:50,020 | WARNING | This is a warning
+2026-07-06 20:16:50,020 | ERROR | This is an error
+2026-07-06 20:20:14,826 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-07-06 20:20:16,052 | INFO | API Response: {}
+2026-07-06 20:21:39,953 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.001, 'price': 200000, 'timeInForce': 'GTC'}
+2026-07-06 20:21:40,808 | INFO | API Response: {}
+2026-07-06 20:22:33,682 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-07-06 20:22:34,455 | INFO | API Response: {}
+2026-07-06 20:22:46,758 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.001, 'price': 200000.0, 'timeInForce': 'GTC'}
+2026-07-06 20:22:47,565 | INFO | API Response: {}
+2026-07-06 20:29:43,489 | INFO | API Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-07-06 20:29:44,356 | INFO | API Response: {}
